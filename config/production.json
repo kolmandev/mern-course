@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "kolman is great",
+    "mongoUri": "mongodb+srv://kolman:bvvtkmcnjhy@cluster0-7fjoj.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
